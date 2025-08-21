@@ -1,4 +1,3 @@
-
 ---
 name: Reporte de bug
 about: Crea un reporte para ayudarnos a mejorar
